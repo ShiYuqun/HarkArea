@@ -1,2 +1,2 @@
 # PoloHark
-My first github-project
+This is My first github-project
